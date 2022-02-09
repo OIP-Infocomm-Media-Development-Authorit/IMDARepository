@@ -51,7 +51,13 @@
 <td><a href=https://datamall.lta.gov.sg/content/dam/datamall/datasets/Facts_Figures/Public%20Transport/Rail%20Length.zip>Download</a></td>
 </tr>
 
-  
+<tr>
+<td>Train Station Code and Chinese Names</td>
+<td>CSV</td>
+<td>Yes</td>
+<td><a href=https://datamall.lta.gov.sg/content/dam/datamall/datasets/PublicTransportRelated/Train_Station_Codes_and_Chinese_Names.zip>Download</a></td>
+</tr>
+ 
 </table>
 
  
