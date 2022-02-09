@@ -38,6 +38,13 @@
 </tr>
 
 <tr>
+<td>Average Ridership on Public Transport (MRT/LRT/Public Bus)</td>
+<td>CSV</td>
+<td>Yes</td>
+<td><a href=https://datamall.lta.gov.sg/content/dam/datamall/datasets/Facts_Figures/Public%20Transport/yearly_ave_daily_pt_ridership.csv>Download</a></td>
+</tr>
+
+<tr>
 <td>Passenger Journey Based on Public Transport (MRT/LRT/Public Bus)</td>
 <td>CSV</td>
 <td>Yes</td>
