@@ -10,7 +10,7 @@
   
 <tr>
 <td>Intelligent Sensing Toolbox</td>
-<td>The Intelligent Sensing Toolbox (IST) is a suite of open-source AI tools and technologies developed by IMDA. This sense-making AI algorithm will offer businesses a plug-and-play,open-source source code which can be quickly adapted and layered on top of its existing data analytics system to help it make better decisions. The IST is open sourced on the Apache 2.0 License 2 and more functionality could be added progressively, in collaborationwith industry partners.
+<td>The Intelligent Sensing Toolbox (IST) is a suite of open-source AI tools and technologies developed by IMDA. This sense-making AI algorithm will offer businesses a plug-and-play,open-source source code which can be quickly adapted and layered on top of its existing data analytics system to help it make better decisions.
 </td>
 <td><a href=https://gitlab.com/imda-dsl/intelligent-sensing-toolbox>View</a></td>
 </tr>
