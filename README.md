@@ -14,6 +14,15 @@
 </td>
 <td><a href=https://gitlab.com/imda-dsl/intelligent-sensing-toolbox>View</a></td>
 </tr>
+  
+<tr>
+<td>National Speech Corpus
+<td>The National Speech Corpus (NSC) is a locally accented and contextualized repository of audio, accompanying transcripts and lexicon in the English Language.
+It is being released as part of an effort to improve the accuracy of Automatic Speech Recognition (ASR) technologies for Singapore.
+</td>
+<td><a href=https://docs.google.com/forms/d/e/1FAIpQLSd3k8wFF4GQP4yo_lDAXKjCltfYk-dE-yYpegTnCB20kr7log/viewform>View</a></td>
+</tr>
+  
 </table>
   
 
