@@ -136,6 +136,10 @@ It is being released as part of an effort to improve the accuracy of Automatic S
 <body>
 <table>
 <tr>
+<td>Types</td>
+<td>Link</td>
+</tr>  
+  
 
 <td>Chatbot</td>
 <td>No</td>
