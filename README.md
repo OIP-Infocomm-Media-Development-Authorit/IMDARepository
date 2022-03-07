@@ -139,7 +139,7 @@ It is being released as part of an effort to improve the accuracy of Automatic S
 
 <td>LTA Platform Crowd Density Realtime API</td>
 <td>No</td>
-<td><a href=http://datamall2.mytransport.sg/ltaodataservice/PCDRealTime>View</a></td>
+<td><a href=https://github.com/aws-samples/aws-lex-web-ui>View</a></td>
 </tr>
 
 
