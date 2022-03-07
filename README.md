@@ -154,6 +154,12 @@ It is being released as part of an effort to improve the accuracy of Automatic S
 <td>Web Application</td>
 <td><a href=https://github.com/aws-samples/aws-bookstore-demo-app>View</a></td>
 </tr>
+  
+<tr>
+<td>How to create stack on AWS CloudFormation</td>
+<td><a href=https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-console-create-stack.html>View</a></td>
+</tr>
+
     
 </table>
   
