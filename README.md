@@ -142,19 +142,16 @@ It is being released as part of an effort to improve the accuracy of Automatic S
   
 
 <td>Chatbot</td>
-<td>No</td>
 <td><a href=https://github.com/aws-samples/aws-lex-web-ui>View</a></td>
 </tr>
 
 <tr>
 <td>Image Recognition</td>
-<td>No</td>
 <td><a href=https://github.com/aws-samples/serverless-rekognition-custom-labels>View</a></td>
 </tr>
 
 <tr>
 <td>Web Application</td>
-<td>No</td>
 <td><a href=https://github.com/aws-samples/aws-bookstore-demo-app>View</a></td>
 </tr>
     
