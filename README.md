@@ -132,25 +132,30 @@ It is being released as part of an effort to improve the accuracy of Automatic S
 
 
 </table>
-<H1>SAP SDK API</H1>
+<H1>SAP CloudFormation and Sample Code Sharing</H1>
 <body>
 <table>
 <tr>
 
-<td>LTA Platform Crowd Density Realtime API</td>
+<td>Chatbot</td>
 <td>No</td>
 <td><a href=https://github.com/aws-samples/aws-lex-web-ui>View</a></td>
 </tr>
 
-
 <tr>
-<td>LTA Platform Crowd Density Forecast API</td>
+<td>Image Recognition</td>
 <td>No</td>
-<td><a href=http://datamall2.mytransport.sg/ltaodataservice/PCDForecast>View</a></td>
+<td><a href=https://github.com/aws-samples/serverless-rekognition-custom-labels>View</a></td>
 </tr>
 
-
+<tr>
+<td>Web Application</td>
+<td>No</td>
+<td><a href=https://github.com/aws-samples/aws-bookstore-demo-app>View</a></td>
+</tr>
+    
 </table>
+  
 <H1>TIH (Tourism Info Hub) API</H1>
 <body>
 <table>
